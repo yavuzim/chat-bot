@@ -34,5 +34,5 @@ from streamlit_chat import message
 <h5>Run the Streamlit Application : </h5>
 
 ```
-streamlit run your_app.py
+streamlit run main.py
 ```
